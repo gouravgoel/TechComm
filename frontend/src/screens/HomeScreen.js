@@ -42,6 +42,9 @@ const HomeScreen = ({ match }) => {
       ) : (
         <>
           <Row>
+            {products.length === 0 && (
+              <Message variant='danger'>No result found</Message>
+            )}
             {products.map((product) => (
               <Col key={product._id} sm={12} md={6} lg={4} xl={3}>
                 <Product product={product} />
