@@ -6,9 +6,12 @@
 [Click Here](https://techcomm-app.herokuapp.com/)
 
 ![](images/home-page.JPG)
+
 ![](images/product-page.JPG)
-![](images/admin-products-page.JPG)
+
 ![](images/payment-page.JPG)
+
+![](images/admin-products-page.JPG)
 
 ## Tech Stack
 
